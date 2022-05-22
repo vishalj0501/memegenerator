@@ -1,6 +1,6 @@
 # memegenerator
 
-Made with Angular..
+Made with Angular.js
 
 Interface![Screenshot 2022-03-07 at 9 44 45 PM](https://user-images.githubusercontent.com/92500255/157089444-38adc7fd-f429-42b3-ae2d-4f572392aba8.png)
 
